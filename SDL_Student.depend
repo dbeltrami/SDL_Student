@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1459170853 source:d:\workspace\sdl_student\main.cc
+1459171312 source:d:\workspace\sdl_student\main.cc
 	"Home.h"
 
 1451768293 c:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
@@ -321,11 +321,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1459170853 d:\workspace\sdl_student\include\home.h
+1459171312 d:\workspace\sdl_student\include\home.h
 	<stdio.h>
 	<stdlib.h>
 	<SDL2/SDL.h>
 
-1459170770 source:d:\workspace\sdl_student\src\home.cpp
+1459171312 source:d:\workspace\sdl_student\src\home.cpp
 	"Home.h"
 
